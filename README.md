@@ -1,0 +1,2 @@
+# birinchi
+Bootstrapda ishlash
